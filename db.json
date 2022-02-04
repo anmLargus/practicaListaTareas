@@ -16,7 +16,7 @@
             "id": 3,
             "text": "Hacer C",
             "day": "10 de febrero a las 16:00",
-            "reminder": true
+            "reminder": false
         },
         {
             "id": 4,
